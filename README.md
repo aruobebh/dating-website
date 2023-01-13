@@ -1,2 +1,2 @@
 # dating-website
-The first website I created using HTML and CSS. The design is what you would expect from an absolute beginner like me ( at the time ), regardless, it is my first website and I am proud of it
+The second website I built utilizing HTML and CSS but this time, having gained experience, improved the design and made it more appealing.
